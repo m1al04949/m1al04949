@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Backend Developer.
+I'm Backend Developer.
 
-Education: Master's Degree in 11.03.04 Electronics and nanoelectronics in 2019
+Education: Master's Degree in 11.03.04 Electronics and nanoelectronics in 2019.
+Mail: m1al04949@gmail.com.
