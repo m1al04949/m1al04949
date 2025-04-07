@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Backend Developer.
+
+Education: Master's Degree in 11.03.04 Electronics and nanoelectronics in 2019
